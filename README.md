@@ -8,11 +8,8 @@ that simulate a Rogerian psychotherapist.
 
 This is a project of reverse engineering, I did
 To understand how the plisp version of "eliza" work.
-I rewrite the plisp program in Perl.
-Unfortunately the plisp manual was deleted from the Internet.
-Here is a Basic program that does the same thing:
-[http://www.atariarchives.org/bigcomputergames/showpage.php?page=22](http://www.atariarchives.org/bigcomputergames/showpage.php?page=22).
-The plisp program looks much more elegant.
+I rewrite the plisp (a lisp for apple II) program in Perl.
+The manual can be found [here](http://home.comcast.net/~oneelkruns/).
 
 -------
 ELIZA is released under the MIT license.
