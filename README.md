@@ -1,9 +1,9 @@
-eliza
+ELIZA
 =========================
 
 Programmer: Yuval Lando
 
-Elize or doctor is an old artificial inteligent program.
+ELIZA or DOCTOR is an old artificial inteligent program.
 
 This is a project of reverse engineering, I did
 To understand how the plisp version of "eliza" work.
@@ -14,4 +14,4 @@ Here is a Basic program that does the same thing:
 The plisp program look much more elegant.
 
 -------
-eliza is released under the MIT license.
+ELIZA is released under the MIT license.
